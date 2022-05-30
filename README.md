@@ -8,3 +8,4 @@ Mirror for www.stepan.us
 | Радио Блумберг | [stepan.us/2019/12/blog-post.html](https://www.stepan.us/2019/12/blog-post.html) | [./2019/blog-post.md](2019/blog-post.md) | December 7, 2019 |
 | О страховой медицине мы песнь сложим | [stepan.us/2019/12/blog-post_28.html](https://www.stepan.us/2019/12/blog-post_28.html) | [./2019/blog-post_2.md](2019/blog-post_2.md) | December 28, 2019 |
 | Россия и Польша. Или "непрощенная" дружба народов | [stepan.us/2019/12/blog-post_30.html](https://www.stepan.us/2019/12/blog-post_30.html) | [./2019/blog-post_30.md](2019/blog-post_30.md) | December 31, 2019 |
+| Конституция России, что дышло: куда повернешь, туда и вышло | [stepan.us/2020/01/blog-post.html](https://www.stepan.us/2020/01/blog-post.html) | [./2020/01-blog-post.md](2020/01-blog-post.md) | January 16, 2020 |
